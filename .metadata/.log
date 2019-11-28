@@ -3771,3 +3771,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.ibm.siptools 1 1 2019-11-28 08:47:34.700
 !MESSAGE com.ibm.siptools.v10.ContentType.SIP_JavaEEQuickPeek.<init>: Content is not allowed in prolog.
+
+!ENTRY com.ibm.siptools 1 1 2019-11-28 09:52:16.643
+!MESSAGE com.ibm.siptools.v10.ContentType.SIP_JavaEEQuickPeek.<init>: Content is not allowed in prolog.
